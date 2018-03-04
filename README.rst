@@ -96,6 +96,6 @@ requests can be made using GitHub's `issues system`_.
    :target: https://travis-ci.org/shendo/taskq
    :alt: Current build status
 
-.. |pypi_version| image:: https://pypip.in/v/taskq/badge.png
+.. |pypi_version| image:: https://img.shields.io/pypi/v/taskq.svg
    :target: https://pypi.python.org/pypi/taskq
    :alt: Latest PyPI version
